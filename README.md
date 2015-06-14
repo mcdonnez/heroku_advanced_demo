@@ -11,7 +11,7 @@ For my demo today on Heroku I will be focusing on the following aspects
 - https://addons.heroku.com/
 - heroku addons:create heroku-postgresql
 - heroku config
-- postgres://<username>:<password>@<host>/<dbname>
+- postgres://username:password@host/dbname
 - heroku pg:psql
 - heroku addons:create pgstudio
 
@@ -21,9 +21,7 @@ For my demo today on Heroku I will be focusing on the following aspects
 
 3) What's a dyno and how to scale horizontally and vertically. (3 min)
 - Go to Resouces
-
-
-
+- Free, Hobby, Standard, Performance
 
 That's it! I hope you enjoy this demo and how it works.
 
