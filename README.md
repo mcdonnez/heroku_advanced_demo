@@ -1,30 +1,20 @@
+Heroku Advanced Demo (10 Minutes)
 
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+Hello! and welcome to the demo environment for Zachary McDonnell's Heroku Advanced Demo.
+As a amateur developer I have really enjoyed getting to know Heroku and how to deploy code to this environment.
+I originally started learning to program after providing technical support for Qualtrics, an online survey company. I realized that many of the difficult issues required a deeper understanding of the setup behind the surveys. I was also very interested in APIs and how they work.
 
 
-Hi there! Welcome to Cloud9 IDE!
+For my demo today on Heroku I will be focusing on the following aspects
 
-To get you started, we have created a small hello world application.
+1) How to deploy Add-ons to your Heroku app, my basic example will be a database. (3 min)
 
-1) Open the hello-world.php file
+2) How to test the load and scalability of a Heroku App with the Add-On "Blitz" (3 min)
 
-2) Follow the run instructions in the file's comments
+3) What's a dyno and how to scale horizontally and vertically. (3 min)
 
-3) If you want to look at the Apache logs, check out ~/lib/apache2/log
+That's it! I hope you enjoy this demo and how it works.
 
-And that's all there is to it! Just have fun. Go ahead and edit the code, 
-or add new files. It's all up to you! 
+Sincerely,
 
-Happy coding!
-The Cloud9 IDE team
-
-
-## Support & Documentation
-
-Visit http://docs.c9.io for support, or to learn more about using Cloud9 IDE. 
-To watch some training videos, visit http://www.youtube.com/user/c9ide
+Zach McDonnell

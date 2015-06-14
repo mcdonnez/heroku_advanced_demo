@@ -1,0 +1,22 @@
+#title {
+    text-align: center;
+}
+.leftpanel {
+    float: left;
+    padding: 5px;
+}
+.rightpanel {
+    padding: 5px;
+    overflow: hidden;
+    border-left: 1px solid black;
+    min-height: 300px;
+}
+body {
+    background-color: gray;
+}
+.content {
+    position: relative;
+    margin: 0 auto;
+    border: 1px solid black;
+    min-height: 300px;
+}
