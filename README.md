@@ -19,7 +19,9 @@ For my demo today on Heroku I will be focusing on the following aspects
 - heroku addons:create blitz
 - https://dashboard.heroku.com/apps
 
+
 3) What's a dyno and how to scale horizontally and vertically. (3 min)
+- https://dashboard.heroku.com/apps
 - Go to Resouces
 - Free, Hobby, Standard, Performance
 
