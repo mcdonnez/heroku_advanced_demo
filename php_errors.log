@@ -16,3 +16,11 @@
 [14-Jun-2015 00:06:10 UTC] PHP Fatal error:  require_once(): Failed opening required '../functions/render.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/controller/index.php on line 2
 [14-Jun-2015 00:06:10 UTC] PHP Stack trace:
 [14-Jun-2015 00:06:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/controller/index.php:0
+[16-Jun-2015 01:52:09 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/ubuntu/workspace/model/connect.php on line 9
+[16-Jun-2015 01:52:09 UTC] PHP Stack trace:
+[16-Jun-2015 01:52:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/model/connect.php:0
+[16-Jun-2015 01:52:09 UTC] PHP   2. mysqli->mysqli() /home/ubuntu/workspace/model/connect.php:9
+[16-Jun-2015 01:55:50 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/ubuntu/workspace/model/connect.php on line 9
+[16-Jun-2015 01:55:50 UTC] PHP Stack trace:
+[16-Jun-2015 01:55:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/model/connect.php:0
+[16-Jun-2015 01:55:50 UTC] PHP   2. mysqli->mysqli() /home/ubuntu/workspace/model/connect.php:9
